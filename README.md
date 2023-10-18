@@ -1,6 +1,4 @@
-Constructing Hierarchical Attentive Functional Brain Networks for Early AD Diagnosis.
 
----
 Overview
 ---
 ![avatar](./framework.jpg)
