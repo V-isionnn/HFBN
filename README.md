@@ -5,8 +5,7 @@ Overview
 ---
 ![avatar](./framework.jpg)
 ---
-This code is for the paper: Constructing Hierarchical Attentive Functional Brain Networks for Early AD Diagnosis. The data used in the experiments are from ADNI datasets (https://adni.loni.usc.edu/).
----
+This code is for the paper: Constructing Hierarchical Attentive Functional Brain Networks for Early AD Diagnosis. 
 
 Test
 ```
